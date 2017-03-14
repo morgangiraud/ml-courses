@@ -93,3 +93,4 @@ env/
 .DS_Store
 weights
 checkpoint
+**/**/results/*
